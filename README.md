@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Fred
 
-<!--
-**fredmikhail/fredmikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior software engineer based in Montreal, currently focused on full-stack development with C#, .NET, React, TypeScript, and PostgreSQL.
 
-Here are some ideas to get you started:
+I'm building hands-on projects to strengthen my fundamentals and grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+
+**Gamified Habit Tracker**
+
+A full-stack habit tracking app with RPG-style progression, streaks, XP, milestones, and character attributes.
+
+**Stack:** React, TypeScript, ASP.NET Core Web API, PostgreSQL, Entity Framework Core, Tailwind CSS
