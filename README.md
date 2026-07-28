@@ -1,8 +1,8 @@
 # Hi, I'm Fred
 
-I'm a junior software engineer based in Montreal, currently focused on full-stack development with C#, .NET, React, TypeScript, and PostgreSQL.
+I'm a software engineer based in Montreal, currently focused on full-stack development with C#, .NET, React, TypeScript, and PostgreSQL.
 
-I'm building hands-on projects to strengthen my fundamentals and grow as a developer.
+I'm building hands-on projects to strengthen my knowledge and grow as a developer.
 
 ## Current project
 
