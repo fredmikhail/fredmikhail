@@ -1,21 +1,22 @@
 # Hi, I'm Fred
 
-I'm a software engineer based in Montréal. My background includes software development, testing, simulator support, and digital access systems.
+I'm a software developer based in Montréal, focused on C#/.NET. I have a B.Eng. in Software Engineering from Concordia University and experience across C# product development, automated testing, simulator systems, digital access, and production troubleshooting.
 
-I build full-stack web applications and enjoy working across backend logic, APIs, databases, automated testing, and responsive interfaces.
+Recent work includes a deployed ASP.NET Core application and a live bilingual client website.
 
-## Current work
+## Projects
 
 ### [Momentum](https://momentum-habit-tracker-j5id.onrender.com)
 
-A full-stack habit tracker with daily and weekly habits, streaks, XP, and progression across eight attributes.
+A deployed personal habit tracker with daily and weekly habits, streaks, XP, attributes, authentication, and auditable undo/history.
 
-**Built with:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL, React, TypeScript, Docker, GitHub Actions, and Render  
-**Source code:** [github.com/fredmikhail/gamified-habit-tracker](https://github.com/fredmikhail/gamified-habit-tracker)
+**Built with:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL, React, TypeScript, Docker, GitHub Actions, and Render
 
-### Husky Déneigement
+### [Husky Déneigement](https://deneigementhusky.com)
 
-A client website in progress for a Greater Montréal snow-removal and property-care company, focused on clear service information, mobile usability, and a simple quote-request flow.
+A live bilingual production website for a Greater Montréal snow-removal and property-care company. I handled the project from client requirements through development, deployment, DNS migration, and production launch.
+
+**Built with:** Astro, TypeScript, Tailwind CSS, Cloudflare Pages/Functions, Turnstile, Resend, and Vitest
 
 ## Links
 
