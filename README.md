@@ -20,4 +20,4 @@ A bilingual production website I built and launched for a Greater Montréal snow
 
 ## Links
 
-[Portfolio](https://frederic-mikhail.onrender.com) · [LinkedIn](https://www.linkedin.com/in/frederic-mikhail-659a52159/) · [Résumé](https://frederic-mikhail.onrender.com/resume)
+[Portfolio](https://fredericmikhail.onrender.com) · [LinkedIn](https://www.linkedin.com/in/frederic-mikhail-659a52159/) · [Résumé](https://fredericmikhail.onrender.com/resume)
